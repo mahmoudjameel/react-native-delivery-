@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">57098218201-07k0vvqhvo4i2aln005kmhd7l3rl2dhs.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://appddelevery-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">57098218201</string>
+    <string name="google_api_key" translatable="false">AIzaSyCGapng6rJqNzNkhaj-pR_x02Xfcr7khCk</string>
+    <string name="google_app_id" translatable="false">1:57098218201:android:b074b5a241f36131afecc8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCGapng6rJqNzNkhaj-pR_x02Xfcr7khCk</string>
+    <string name="google_storage_bucket" translatable="false">appddelevery.appspot.com</string>
+    <string name="project_id" translatable="false">appddelevery</string>
+</resources>
